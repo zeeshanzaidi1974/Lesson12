@@ -9,25 +9,3 @@
 
 
 
-/* @media screen and (max-width: 1000px) {
-    .adaptive-bg {
-        background-image: url('../images/bg-m.jpg');
-    }
-} 
-@media screen and (max-width: 800px) {
-    .adaptive-bg {
-        background-image: url('../images/bg-s.jpg');
-    }
-}
-
- @media screen and (min-width: 1001px) {
-    .adaptive-bg {
-        background-image: url('../images/bg-l.jpg');
-    }
-} */
-
-/* @media screen and (min-width: 801px) and (max-width: 1000px) {
-    .adaptive-bg {
-        background-image: url('../images/bg-m.jpg');
-    }
-} */
