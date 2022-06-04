@@ -132,6 +132,22 @@ margin-left: 100px;
 
 }
 
+.nav__link {
 
+    color: rgb(235, 134, 2);
+
+    text-decoration: none;
+
+    font-size: 25px;
+
+}
+
+
+
+.nav__link:hover {
+
+    color: rgb(0, 195, 255);
+
+}
 
 
